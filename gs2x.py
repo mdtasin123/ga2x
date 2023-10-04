@@ -1,6 +1,3 @@
-#<\>!python3.11
-#<\>coded by XIYAD
-#----------------Don't Copy This Script--------------#
 import os, sys, platform
 try:
     import requests
